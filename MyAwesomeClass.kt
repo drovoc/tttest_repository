@@ -1,0 +1,5 @@
+class MyAwesomeClass {
+    fun main(){
+
+    }
+}
